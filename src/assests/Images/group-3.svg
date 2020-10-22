@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="347" height="324" viewBox="0 0 347 324">
+    <defs>
+        <filter id="t41857e1xc" width="225.9%" height="226.1%" x="-63%" y="-63%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="fmbqyfi97g" width="217.5%" height="217.6%" x="-58.7%" y="-58.8%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="cazivni20k" width="225.9%" height="226.1%" x="-63%" y="-63%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="9bo25m7l2n" width="188.6%" height="188.7%" x="-44.3%" y="-44.4%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="14"/>
+        </filter>
+        <filter id="mpdwcqjamq" width="225.9%" height="226.1%" x="-63%" y="-63%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="z4no971phs" width="225.9%" height="226.1%" x="-63%" y="-63%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="6pawlhoeku" width="217.5%" height="217.6%" x="-58.7%" y="-58.8%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="j0ge5m7vgx" width="225.9%" height="226.1%" x="-63%" y="-63%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="wbgxn9ejjA" width="217.5%" height="217.6%" x="-58.7%" y="-58.8%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="a04utav9wD" width="225.9%" height="226.1%" x="-63%" y="-63%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="18.56"/>
+        </filter>
+        <filter id="1mw6km6xxG" width="188.6%" height="188.7%" x="-44.3%" y="-44.4%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="14"/>
+        </filter>
+        <filter id="4q6f2n9m6M" width="137.5%" height="135%" x="-18.8%" y="-17.5%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="5"/>
+        </filter>
+        <path id="8s29iwklxa" d="M0 0L35.607 30.021 35.607 93.295 0 63.274z"/>
+        <path id="1bw06wlple" d="M0.347 0L63.699 18.474 63.699 81.748 0.347 63.274z"/>
+        <path id="ljr1qpmeuj" d="M0 0L35.607 30.021 35.607 93.295 0 63.274z"/>
+        <path id="ktajkvbzdm" d="M0.347 0L63.699 18.474 63.699 81.748 0.347 63.274z"/>
+        <path id="mco58r234p" d="M0 0L35.607 30.021 35.607 93.295 0 63.274z"/>
+        <path id="phfhaka4kt" d="M0.347 0L63.699 18.474 63.699 81.748 0.347 63.274z"/>
+        <path id="jij9wyzg0w" d="M0 0L35.607 30.021 35.607 93.295 0 63.274z"/>
+        <path id="47t7ea38oz" d="M0.347 0L63.699 18.474 63.699 81.748 0.347 63.274z"/>
+        <path id="6pv3m032oC" d="M0 0L35.607 30.021 35.607 93.295 0 63.274z"/>
+        <path id="rlamr53g4F" d="M0.347 0L63.699 18.474 63.699 81.748 0.347 63.274z"/>
+        <linearGradient id="ygcw40zaob" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#491CF2"/>
+            <stop offset="100%" stop-color="#4286F8"/>
+        </linearGradient>
+        <linearGradient id="l76l3nmsgf" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#491CF2"/>
+            <stop offset="100%" stop-color="#4286F8"/>
+        </linearGradient>
+        <linearGradient id="1u6n4tgtui" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#491CF2"/>
+            <stop offset="100%" stop-color="#4286F8"/>
+        </linearGradient>
+        <linearGradient id="iyvx6igq8I" x1="147.593%" x2="34.792%" y1="-7.875%" y2="54.355%">
+            <stop offset="0%" stop-color="#EEE"/>
+            <stop offset="100%" stop-color="#8781D0" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="npjoba98nJ" x1="147.593%" x2="34.792%" y1="-4.073%" y2="54.069%">
+            <stop offset="0%" stop-color="#EEE"/>
+            <stop offset="100%" stop-color="#8781D0" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="x0i886evsK" x1="147.593%" x2="34.792%" y1="-6.752%" y2="54.271%">
+            <stop offset="0%" stop-color="#EEE"/>
+            <stop offset="100%" stop-color="#8781D0" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="bpdxrm90hL" x1="135.167%" x2="36.728%" y1="-299.167%" y2="76.276%">
+            <stop offset="0%" stop-color="#EEE"/>
+            <stop offset="100%" stop-color="#8781D0" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g opacity=".6">
+            <g>
+                <g transform="translate(45) translate(72.6 .6) translate(63.7 18.474)">
+                    <mask id="764g434sgd" fill="#fff">
+                        <use xlink:href="#8s29iwklxa"/>
+                    </mask>
+                    <use fill="url(#ygcw40zaob)" opacity=".3" transform="matrix(-1 0 0 1 35.607 0)" xlink:href="#8s29iwklxa"/>
+                    <ellipse cx="-22.37" cy="58.309" fill="#FFF" filter="url(#t41857e1xc)" mask="url(#764g434sgd)" opacity=".7" rx="44.22" ry="44.165"/>
+                </g>
+                <g transform="translate(45) translate(72.6 .6) translate(0 30.02)">
+                    <mask id="kfg3azvlsh" fill="#fff">
+                        <use xlink:href="#1bw06wlple"/>
+                    </mask>
+                    <use fill="url(#l76l3nmsgf)" opacity=".3" xlink:href="#1bw06wlple"/>
+                    <ellipse cx="31.792" cy="40.99" fill="#FFF" filter="url(#fmbqyfi97g)" mask="url(#kfg3azvlsh)" opacity=".296" rx="47.399" ry="47.34"/>
+                </g>
+                <path fill="url(#1u6n4tgtui)" d="M0.347 30.021L63.699 48.495 99.306 18.474 35.954 0z" opacity=".3" transform="translate(45) translate(72.6 .6)"/>
+            </g>
+            <g>
+                <g>
+                    <g transform="translate(45) translate(.6 93.4) translate(98.4 81.6) translate(63.7 18.474)">
+                        <mask id="c50zxo687l" fill="#fff">
+                            <use xlink:href="#ljr1qpmeuj"/>
+                        </mask>
+                        <use fill="url(#ygcw40zaob)" opacity=".3" transform="matrix(-1 0 0 1 35.607 0)" xlink:href="#ljr1qpmeuj"/>
+                        <ellipse cx="-22.37" cy="58.309" fill="#FFF" filter="url(#cazivni20k)" mask="url(#c50zxo687l)" opacity=".7" rx="44.22" ry="44.165"/>
+                    </g>
+                    <g transform="translate(45) translate(.6 93.4) translate(98.4 81.6) translate(0 30.02)">
+                        <mask id="ypypc01aco" fill="#fff">
+                            <use xlink:href="#ktajkvbzdm"/>
+                        </mask>
+                        <use fill="url(#l76l3nmsgf)" opacity=".3" xlink:href="#ktajkvbzdm"/>
+                        <ellipse cx=".399" cy="47.32" fill="#31A4FF" filter="url(#9bo25m7l2n)" mask="url(#ypypc01aco)" opacity=".3" rx="47.399" ry="47.34"/>
+                    </g>
+                    <path fill="url(#1u6n4tgtui)" d="M0.347 30.021L63.699 48.495 99.306 18.474 35.954 0z" opacity=".3" transform="translate(45) translate(.6 93.4) translate(98.4 81.6)"/>
+                </g>
+                <g>
+                    <g transform="translate(45) translate(.6 93.4) translate(0 92.8) translate(63.7 18.474)">
+                        <mask id="01b2cznz2r" fill="#fff">
+                            <use xlink:href="#mco58r234p"/>
+                        </mask>
+                        <use fill="url(#ygcw40zaob)" opacity=".3" transform="matrix(-1 0 0 1 35.607 0)" xlink:href="#mco58r234p"/>
+                        <ellipse cx="-22.37" cy="58.309" fill="#FFF" filter="url(#mpdwcqjamq)" mask="url(#01b2cznz2r)" opacity=".7" rx="44.22" ry="44.165"/>
+                        <ellipse cx="67.225" cy="58.598" fill="#FFF" filter="url(#z4no971phs)" mask="url(#01b2cznz2r)" opacity=".7" rx="44.22" ry="44.165"/>
+                    </g>
+                    <g transform="translate(45) translate(.6 93.4) translate(0 92.8) translate(0 30.02)">
+                        <mask id="cr4jguacqv" fill="#fff">
+                            <use xlink:href="#phfhaka4kt"/>
+                        </mask>
+                        <use fill="url(#l76l3nmsgf)" opacity=".3" xlink:href="#phfhaka4kt"/>
+                        <ellipse cx="3.468" cy="47.34" fill="#FFF" filter="url(#6pawlhoeku)" mask="url(#cr4jguacqv)" opacity=".296" rx="47.399" ry="47.34"/>
+                    </g>
+                    <path fill="url(#1u6n4tgtui)" d="M0.347 30.021L63.699 48.495 99.306 18.474 35.954 0z" opacity=".3" transform="translate(45) translate(.6 93.4) translate(0 92.8)"/>
+                </g>
+                <g>
+                    <g transform="translate(45) translate(.6 93.4) translate(36) translate(63.7 18.474)">
+                        <mask id="9oi39u13oy" fill="#fff">
+                            <use xlink:href="#jij9wyzg0w"/>
+                        </mask>
+                        <use fill="url(#ygcw40zaob)" opacity=".3" transform="matrix(-1 0 0 1 35.607 0)" xlink:href="#jij9wyzg0w"/>
+                        <ellipse cx="-22.37" cy="58.309" fill="#FFF" filter="url(#j0ge5m7vgx)" mask="url(#9oi39u13oy)" opacity=".7" rx="44.22" ry="44.165"/>
+                    </g>
+                    <g transform="translate(45) translate(.6 93.4) translate(36) translate(0 30.02)">
+                        <mask id="kijwn9vasB" fill="#fff">
+                            <use xlink:href="#47t7ea38oz"/>
+                        </mask>
+                        <use fill="url(#l76l3nmsgf)" opacity=".3" xlink:href="#47t7ea38oz"/>
+                        <ellipse cx="3.468" cy="47.34" fill="#FFF" filter="url(#wbgxn9ejjA)" mask="url(#kijwn9vasB)" opacity=".296" rx="47.399" ry="47.34"/>
+                    </g>
+                    <path fill="url(#1u6n4tgtui)" d="M0.347 30.021L63.699 48.495 99.306 18.474 35.954 0z" opacity=".3" transform="translate(45) translate(.6 93.4) translate(36)"/>
+                </g>
+            </g>
+            <g>
+                <g transform="translate(45) translate(200.4 82.6) translate(63.7 18.474)">
+                    <mask id="msv0fnm16E" fill="#fff">
+                        <use xlink:href="#6pv3m032oC"/>
+                    </mask>
+                    <use fill="url(#ygcw40zaob)" opacity=".3" transform="matrix(-1 0 0 1 35.607 0)" xlink:href="#6pv3m032oC"/>
+                    <ellipse cx="-22.37" cy="58.309" fill="#FFF" filter="url(#a04utav9wD)" mask="url(#msv0fnm16E)" opacity=".7" rx="44.22" ry="44.165"/>
+                </g>
+                <g transform="translate(45) translate(200.4 82.6) translate(0 30.02)">
+                    <mask id="dz2hvvxphH" fill="#fff">
+                        <use xlink:href="#rlamr53g4F"/>
+                    </mask>
+                    <use fill="url(#l76l3nmsgf)" opacity=".3" xlink:href="#rlamr53g4F"/>
+                    <ellipse cx="11.799" cy="54.72" fill="#D4DDFE" filter="url(#1mw6km6xxG)" mask="url(#dz2hvvxphH)" opacity=".5" rx="47.399" ry="47.34"/>
+                </g>
+                <path fill="url(#1u6n4tgtui)" d="M0.347 30.021L63.699 48.495 99.306 18.474 35.954 0z" opacity=".3" transform="translate(45) translate(200.4 82.6)"/>
+            </g>
+        </g>
+        <path fill="url(#iyvx6igq8I)" d="M45.6 279.591L109.299 297.969 64.283 323.974 0.283 309.026z"/>
+        <path fill="url(#npjoba98nJ)" d="M145.317 268L209.017 286.378 163.299 310.901 100 293.435z"/>
+        <path fill="url(#x0i886evsK)" d="M245.317 176L309.017 194.378 254.508 223.495 191.209 206.029z"/>
+        <path fill="url(#bpdxrm90hL)" d="M173.901 125L240.49 141.673 160.508 210.619 173.901 167.295z" filter="url(#4q6f2n9m6M)"/>
+    </g>
+</svg>
